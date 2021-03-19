@@ -1,0 +1,5 @@
+/* Applies to pages regardless of light/dark mode selection */
+
+* {
+  align-self: center;
+}
